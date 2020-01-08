@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "NetStatus"
+  s.name         = "NetStatus-Swift"
   s.version      = "1.0.0"
   s.summary      = "A small framework to monitor network changes in Swift."
 
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
                    NetStatus is a small and lightweight Swift framework that allows to monitor and being notified for network status changes in a super-easy way!
                    DESC
 
-  s.homepage     = "https://github.com/AmolJ1411"
+  s.homepage     = "https://github.com/dev-sjagtap"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/AmolJ1411/NetStatus.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/dev-sjagtap/NetStatus.git", :tag => "#{s.version}" }
   # s.source       = { :http => 'file:' + __dir__ + "/" }
 
 
